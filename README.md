@@ -2,7 +2,7 @@
 
 **` (Developer/Editor/It)`**
 
-As a second-year student at NCTU with a foundation in front-end development, particularly in Angular and React, I’m excited to deepen my technical expertise. I’m passionate about learning and actively seek opportunities to expand my skills. While I have a bit of experience, I bring strong teamwork abilities, adaptability, and a proactive approach to collaborating with others. I aim to build on my knowledge in project management and communication, working effectively in cross-functional teams to help drive projects to successful completion.As a second-year student at NCTU with a foundation in front-end development, particularly in Angular and React, I’m excited to deepen my technical expertise. I’m passionate about learning and actively seek opportunities to expand my skills. While I have a bit of experience, I bring strong teamwork abilities, adaptability, and a proactive approach to collaborating with others. I aim to build on my knowledge in project management and communication, working effectively in cross-functional teams to help drive projects to successful completion.
+I’m a second-year student at NCTU with a foundation in front-end development, particularly in Angular and React. I’m eager to deepen my technical expertise and expand my skills. With a bit of experience, I bring strong teamwork, adaptability, and a proactive approach to collaboration. I aim to enhance my knowledge in project management and communication, contributing effectively to cross-functional teams and driving projects to success.
 
 
 ### 🧰 Languages and Tools
