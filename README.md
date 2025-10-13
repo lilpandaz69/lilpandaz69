@@ -1,20 +1,77 @@
-# 🏄‍♂️ Nour mamdouh 
+<!-- 🟢 START HEADER BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
-**` (Developer/Editor/It)`**
 
-I’m a second-year student at NCTU with a foundation in front-end development, particularly in Angular and React. I’m eager to deepen my technical expertise and expand my skills. With a bit of experience, I bring strong teamwork, adaptability, and a proactive approach to collaboration. I aim to enhance my knowledge in project management and communication, contributing effectively to cross-functional teams and driving projects to success.
+<h1 align="center">Hi 👋, I'm Nour mamdouh</h1>
+<h3 align="center">🚀 A passionate Junior Frontend Developer - Learning BackEnd from Egypt</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7971E&size=25&center=true&vCenter=true&lines=Frontend+Developer;Learning+BackEnd;Open+Source+Contributor;Love+Angular+and+React;Let's+Build+Awesome+UIs!" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on **CRM Project**
+- 🌱 Currently learning **Asp.net**
+- 💬 Ask me about **Angular, React**
+- 👨‍💻 All of my projects are on **[My GitHub](https://github.com/lilpandaz69?tab=repositories)**
+- 📫 How to reach me: **Nourmamdouh54@gmail.com**
+
+---
+
+## 🚩 Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/lilpandaz69?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/followers/lilpandaz69?style=for-the-badge&color=blue" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=lilpandaz69&label=Profile%20Views&color=green&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Repos-10-orange?style=for-the-badge" alt="Repositories"/>
+</p>
 
 
-### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<br />
+---
 
-#
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lilpandaz69&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilpandaz69&layout=compact&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YoussefMohaemd&theme=radical&row=1&no-bg=true&no-frame=true" alt="Trophies" />
+</p>
+
+
+
+---
+
+## 💌 Let's connect!
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</p>
+
