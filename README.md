@@ -57,18 +57,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YoussefMohaemd&theme=radical&row=1&no-bg=true&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lilpandaz69&theme=radical&row=1&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
 
 
 
----
-
-## 💌 Let's connect!
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</p>
 
