@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/github/stars/lilpandaz69?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
   <img src="https://img.shields.io/github/followers/lilpandaz69?style=for-the-badge&color=blue" alt="GitHub Followers"/>
   <img src="https://komarev.com/ghpvc/?username=lilpandaz69&label=Profile%20Views&color=green&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Repos-10-orange?style=for-the-badge" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/Repos-8-orange?style=for-the-badge" alt="Repositories"/>
 </p>
 
 
